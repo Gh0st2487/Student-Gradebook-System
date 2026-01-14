@@ -39,13 +39,21 @@ This project was implemented as part of a **Data Structures & Algorithms** cours
 ## ✨ Features
 
 ✔️ Insert student data (name, ID, grades)
+
 ✔️ Calculate individual GPA automatically
+
 ✔️ Search student records using hashing
+
 ✔️ Display all student records
+
 ✔️ Mark and display attendance by date
+
 ✔️ Delete student records
+
 ✔️ Undo delete operation using stack
+
 ✔️ Calculate average GPA of the class
+
 ✔️ Admin login system using file handling
 
 ---
